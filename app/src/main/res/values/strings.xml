@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NewsKE</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="recommended_app">Recommended App</string>
+    <string name="favourite">Favourites</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="random_news">Random News</string>
+    <string name="invite">Invite</string>
+    <string name="about">About</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="up_to_date_news">Updated News</string>
+</resources>
